@@ -1,10 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Спортивные", Матч Премьер (Desktop)
-http://192.168.1.3:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
+  http://192.168.1.3:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 group-title="Спортивные", Матч Премьер (MIBOX4)
-http://192.168.1.132:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
-
+  http://192.168.1.132:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
 #EXTINF:-1 group-title="Спортивные", Матч Премьер (local)
-http://127.0.0.1:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+  http://127.0.0.1:8621/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
